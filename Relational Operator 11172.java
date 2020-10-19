@@ -1,7 +1,8 @@
+//Link: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2113
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
-class Relational
+class Main
 {
 	public static void main(String [] args) throws IOException
 	{
