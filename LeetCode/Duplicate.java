@@ -1,3 +1,5 @@
+//Link: https://leetcode.com/problems/find-the-duplicate-number/
+//Solver Function only
 class Solution {
     public static int findDuplicate(int[] nums)
 	{
